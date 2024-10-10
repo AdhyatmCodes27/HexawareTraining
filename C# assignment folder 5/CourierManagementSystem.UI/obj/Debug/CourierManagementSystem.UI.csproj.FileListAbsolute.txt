@@ -1,0 +1,15 @@
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.exe.config
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.exe
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.BusinessLayer.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.BusinessLayer.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.AssemblyReference.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.CopyComplete
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.exe
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.DatabaseLayer.pdb

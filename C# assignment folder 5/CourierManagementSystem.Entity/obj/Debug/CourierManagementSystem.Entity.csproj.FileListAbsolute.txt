@@ -1,0 +1,6 @@
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.Entity\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.Entity\obj\Debug\CourierManagementSystem.Entity.pdb

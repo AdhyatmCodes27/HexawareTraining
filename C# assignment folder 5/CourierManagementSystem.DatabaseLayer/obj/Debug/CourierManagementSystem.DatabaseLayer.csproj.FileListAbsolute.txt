@@ -1,0 +1,9 @@
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.DatabaseLayer.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.Entity.dll
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\bin\Debug\CourierManagementSystem.Entity.pdb
+C:\Users\Adhyatm\Desktop\OOP\CourierManagementSystem.DatabaseLayer\obj\Debug\CourierManagementSystem.DatabaseLayer.csproj.CopyComplete
